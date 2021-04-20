@@ -1,7 +1,5 @@
 {
   "name": "WHMCS Workflow",
   "description": "Runs Test and Release Jobs.",
-  "iconName": "whmcs-icon",
-  "categories": ["PHP"],
-  "filePatterns": []
+  "iconName": "whmcs-icon"
 }
