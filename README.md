@@ -2,8 +2,7 @@
 
 ## Workflows
 
-- `test`
-- `release`
+- WHMCS `test` and `release`
 
 ## Future workflows
 
