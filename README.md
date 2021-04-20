@@ -1,2 +1,11 @@
-# .github
-A Repo for Shared Github Actions Template
+# HEXONET GmbH .github
+
+## Workflows
+
+- `test`
+- `release`
+
+## Future workflows
+
+- TBA
+
